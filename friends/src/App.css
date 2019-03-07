@@ -10,7 +10,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+.friendContainer {
+  border: 2px solid red;
+     padding: 10px;
+     border-radius: 5px;
+     padding: 10px 15px;
+     margin: 5px;
+  width: 30%;
+ }
